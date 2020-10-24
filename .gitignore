@@ -2,6 +2,7 @@
 .bundle
 .sass-cache
 .jekyll-cache
+_sie
 Gemfile.lock
 unused
 bootstrap-reference.html
