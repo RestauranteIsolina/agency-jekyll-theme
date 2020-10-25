@@ -2,6 +2,6 @@ header:
     title: 
     text: 
     button: Menu
-    buttonlink: "#menu"
+    buttonlink: "MenuIsolina.pdf"
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

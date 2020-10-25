@@ -6,7 +6,7 @@
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: #404040;
     border: 0;
     background-color: $primary;
     @include heading-font;
@@ -24,11 +24,12 @@
   .navbar-nav {
     .nav-item {
       .nav-link {
-        font-size: 90%;
-        font-weight: 400;
+        font-size: 95%;
+        font-weight: 600;
         padding: 0.75em 0;
         letter-spacing: 1px;
         color: white;
+	text-shadow: 2px 2px #000;
         @include heading-font;
         &.active,
         &:hover {
