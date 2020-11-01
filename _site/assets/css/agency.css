@@ -30,7 +30,7 @@ img::-moz-selection { background: transparent; }
 
 .btn-xl { font-size: 18px; padding: 12px 40px; }
 
-.btn-primary { background-color: #E2DDDB; border-color: #E2DDDB; color: #404040; }
+.btn-primary { background-color: #E2DDDB; border-color: #E2DDDB; color: #404040; width: 210px; }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover { background-color: #d1c9c6 !important; border-color: #d1c9c6 !important; color: #303030; }
 

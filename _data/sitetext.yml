@@ -3,5 +3,10 @@ header:
     text: 
     button: Menu
     buttonlink: "MenuIsolina.pdf"
+booking:
+    title: 
+    text: 
+    button: Reservar
+    buttonlink: "https://www.opentable.com/r/isolina-reservations-san-jose?restref=1034692&lang=en-US&ot_source=Restaurant%20website"
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
