@@ -1,8 +1,13 @@
 header:
     title: 
     text: 
-    button: Menu
+    button: Menu (ESP)
     buttonlink: "MenuIsolina.pdf"
+header:
+    title: 
+    text: 
+    button: Menu (ENG)
+    buttonlink: "MenuIsolinaEng.pdf"
 booking:
     title: 
     text: 
